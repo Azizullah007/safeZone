@@ -2286,3 +2286,20 @@ a.back-to-top:hover, a.back-to-top:focus {
 .img-fluid{
   margin-top: 170px;
 }
+
+#features{
+  background-image: url(../img/background/bg3.jpg);
+  height: 900px;
+}
+
+
+/* MANEGMENTS SECTION */
+
+#managment{
+  padding-top: 50px;
+  background-color: #d8f9ff;
+}
+
+.my-flex-item{
+  margin: 40px 40px 40px 40px;
+}
